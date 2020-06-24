@@ -1,7 +1,8 @@
 # Get all your key Python script and Python related script in 1 place !
 
 
-This repository contain somewhat (almost) comprehensive cheat sheet related to Python.
+This repository contain somewhat (almost) comprehensive cheat sheet related to Python :\
+CHEAT_SHEET_Python.ipynb\
 This ranges from :
 * Basic python code (variable, +, list, dict etc.)
 * Advanced feature (concate datafarme etc.)
@@ -13,4 +14,4 @@ This ranges from :
 * Code Ideas from other people
 * Miscelenaous usefull stuff (e.g. How to calculate process time for specific task etc.)
 
-** It is strongly recommended to open the file in Google Collab for ease of use**
+** It is strongly recommended to open the file in Google Collab for ease of use **
