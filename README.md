@@ -1,2 +1,2 @@
 # cheatsheet
-GAN to generate children's story
+Basic code and cheat sheet to help writting. Mainly Python and some Spark framework
